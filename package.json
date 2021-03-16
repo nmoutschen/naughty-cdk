@@ -1,5 +1,6 @@
 {
   "name": "naughty-cdk",
+  "license": "MIT",
   "version": "0.1.0",
   "bin": {
     "naughty-cdk": "bin/naughty-cdk.js"
@@ -22,6 +23,7 @@
   },
   "dependencies": {
     "@aws-cdk/core": "1.94.0",
+    "open": "^8.0.2",
     "source-map-support": "^0.5.16"
   }
 }
